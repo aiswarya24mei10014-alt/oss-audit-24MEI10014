@@ -43,20 +43,28 @@ This script requires the user to input values for three different variables, the
 ### Step 1: Open Terminal
 
 We need to open a terminal and go to the directory where our scripts are located.
+
+---
 cd path/to/your/scripts
 
+---
 ### Step 2: Give Permission
 We need to make your scripts executable by giving execute permission.
 
+---
 chmod +x script1.sh
 chmod +x script2.sh
 chmod +x script3.sh
 chmod +x script4.sh
 chmod +x script5.sh
 
+---
 ### Step 3: Execute Scripts
 
 We need to execute our scripts.
+
+---
+
 ./script1.sh
 ./script2.sh
 ./script3.sh
